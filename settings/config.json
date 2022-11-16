@@ -1,0 +1,39 @@
+{
+
+  "PREFIX": "!",
+    "invite":"https://discord.com/api/oauth2/authorize?client_id=855283499526782996&permissions=81074120776&scope=bot%20applications.commands",
+  "support":"https://discord.gg/WuXCP7Q4cP",
+  "vote": "https://discordbotlist.com/bots/zua",
+  "modlog": "952800959849955378",
+  "cmdlog": "959799547431895090",
+  "joinlog": "959844675940937828",
+    "leftlog":"959844713094074408",
+  "applylog":"972889905329995806",
+  "errorLogsChannel": "952800959849955378",
+  "reportChannel":"956626131338010744",
+  "suggestionChannel":"956131010070863922",
+  "ownerID": ["610513919601279005"],
+    "ownerid": ["610513919601279005", "770988400047947796"],
+  "SlashCommandsGlobal": true,
+"SlashCommand_Server_id": "",
+  "Enable_MongoDB": false,
+  
+  "env": {
+    "STACKS_TOKEN": "",
+    "PREFIX": ":",
+    "MongoDB_TOKEN": "",
+    "youtubeCookie": "",
+    "spotify_clientID": "3c6c7f972f634fb9b3b447197eff4c68",
+    "spotify_clientSecret": "8eb999c96f0f4d9fb644fbb2f7040703",
+    "SUPPORT": "https://discord.gg/NcCPUgKvTg",
+    "INVITE": "https://discord.com/oauth2/authorize?client_id=883378543613083728&permissions=3457096&scope=bot%20applications.commands",
+    "WEBSITE": "https://www.zuabot.ml"
+  },
+  "music": {
+    "musicRequestImage": "https://cdn.discordapp.com/attachments/907875631000334346/929746731086774272/ezgif.com-gif-maker_1.gif"
+  },
+  "events": {
+    "Enable_debug": false
+  }
+  
+}
