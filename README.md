@@ -26,4 +26,4 @@ To deploy this project run
 ## 📝 License
 
 Copyright © 2019 [Cruz-gaming](https://github.com/cruz-gaming).<br />
-This project is [MIT](https://github.com/cruz-gaming/Zua-Handler-with-commands/blob/main/README.md) licensed.
+This project is [MIT](https://github.com/cruz-gaming/Zua-Handler-with-commands/blob/main/LICENCE) licensed.
