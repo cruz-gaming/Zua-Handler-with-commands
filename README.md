@@ -31,4 +31,4 @@ This bot is developed by
 # DONT REMOVE DEVELOPER CREDITS AND MENTION US WHILE USING THIS SCRIPT
 
 
-# If you like this project please us a 🌟 star.
+# If you like this project please give us a 🌟 star.
