@@ -1,6 +1,6 @@
 ## ZUA OFFICIAL
 
-- The multi purpose discord bot with discord.js v13.
+- The multi purpose discord bot with [discord.js v13](https://discordjs.guide/#before-you-begin).
 
 - Invite Bot: [ZUA#9375](https://discord.com/api/oauth2/authorize?client_id=855283499526782996&permissions=704374636287&scope=bot%20applications.commands)
 
