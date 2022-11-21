@@ -1,9 +1,7 @@
 module.exports = async (client) => {
   client.logger(`Loading AddOn Files...`);
   
-  require(`${process.cwd()}/AddOn/GuildJoin`)(client);
-	require(`${process.cwd()}/AddOn/GuildLeft`)(client);
-  require(`${process.cwd()}/AddOn/GuildJoinMsg`)(client);
+  
   require(`${process.cwd()}/AddOn/Welcome`)(client);
   require(`${process.cwd()}/AddOn/WelcomeImage`)(client);
   require(`${process.cwd()}/AddOn/Application`)(client);
