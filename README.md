@@ -26,7 +26,11 @@ This bot is developed by
 
 [website](https://cruzgaming.ml/), [discord](https://discord.com/channels/@me/840554324160544789), [server](https://discord.gg/zfKNeT5gwQ)
 
+# HOW TO RUN
 
+- Add your Bot token in .env file as `STACKS_TOKEN=your-bot-token`
+
+- Run the bot with command `npm start`
       
 # DONT REMOVE DEVELOPER CREDITS AND MENTION US WHILE USING THIS SCRIPT
 
