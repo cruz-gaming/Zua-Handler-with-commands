@@ -4,10 +4,11 @@
   "description": "A Discord Music Bot",
   "main": "./stacks.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"npx node ./stacks.js"
   },
   "keywords": [],
-  "author": "Zedro#2742",
+  "author": "RJRYT#7873",
   "license": "ISC",
   "dependencies": {
     "@discordjs/opus": "^0.7.0",
