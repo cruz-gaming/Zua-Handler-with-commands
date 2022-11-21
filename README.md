@@ -18,23 +18,15 @@ This bot is developed by
 
 **1 RJRYT**
 
-[website](https://rjryt.tech/)
-
-[discord](https://discord.com/channels/@me/770988400047947796)
-
-[server](https://discord.gg/ZGsN5VMayx)
+[website](https://rjryt.tech/) [discord](https://discord.com/channels/@me/770988400047947796) [server](https://discord.gg/ZGsN5VMayx)
       
 **2 BO$$**
 
-[website](https://cruzgaming.ml/)
-
-[discord](https://discord.com/channels/@me/840554324160544789)
-
-[server](https://discord.gg/zfKNeT5gwQ)
-
-
-`STACKDEVS`
+[website](https://cruzgaming.ml/) [discord](https://discord.com/channels/@me/840554324160544789) [server](https://discord.gg/zfKNeT5gwQ)
 
 
       
- # DONT REMOVE DEVELOPER CREDITS AND MENTION US WHILE USING THIS SCRIPT
+# DONT REMOVE DEVELOPER CREDITS AND MENTION US WHILE USING THIS SCRIPT
+
+
+# If you like this project please us a 🌟 star.
